@@ -79,3 +79,5 @@ Go to the main.cpp file in the src folder, and hit f7 to run it. Check that ever
 And, you've successfully changed the name of the .sublime-project and .sublime-workspace files!
 
 Note: You may have to first open the .sublime-project file in Sublime Text and then refresh your file explorer to view the .sublime-workspace file, which should be the same name as your .sublime-project file.
+
+## You may delete this file after copying the folder, but I would highly recommend keeping it incase you may need it for use.
